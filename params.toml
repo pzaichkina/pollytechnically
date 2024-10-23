@@ -2,7 +2,10 @@
 title = "I'm Polina Zaichkina"
 author = "Polina Zaichkina"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = """
+Thoughts, tips, and woes
+London's best* tech writer
+"""
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"

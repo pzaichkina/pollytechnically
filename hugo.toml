@@ -11,3 +11,4 @@ Thoughts, tips, and woes
 London's best* tech writer
 """
 profilePicture = "images/polly-logo.png"
+displayMode = "light"
