@@ -1,4 +1,13 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://pollytechnically.com/'
 languageCode = 'en-uk'
 title = 'Polly, Technically'
 theme = 'anatole'
+
+[params]
+title = "Polly, Technically"
+author = "Polina Zaichkina"
+description = """
+Thoughts, tips, and woes
+London's best* tech writer
+"""
+profilePicture = "images/polly-logo.png"
