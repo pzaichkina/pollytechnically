@@ -1,6 +1,7 @@
 +++
 date = '2024-10-19T21:36:29+01:00'
 title = 'So you think you know technical writing'
+draft = false
 +++
 
 Occasionally, I like to give myself a little emotional hug by calling myself a professional author. Although technically (ha!) it is true, my average day at work is not what I thought it would be.  
