@@ -12,3 +12,8 @@ London's best* tech writer
 """
 profilePicture = "images/polly-logo.png"
 displayMode = "light"
+disableThemeSwitcher = true
+contentratio = 0.7
+reversepagetitle = true
+disableTitleCapitalization = true
+disableArchiveTitleStyling = true
