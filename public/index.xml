@@ -2,29 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Polly, Technically</title>
-    <link>http://localhost:1313/</link>
+    <link>https://pollytechnically.com/</link>
     <description>Recent content on Polly, Technically</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://pollytechnically.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>So you think you know technical writing</title>
-      <link>http://localhost:1313/posts/24-12-10-so-you-think-you-know-tw/</link>
+      <link>https://pollytechnically.com/posts/24-12-10-so-you-think-you-know-tw/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/24-12-10-so-you-think-you-know-tw/</guid>
-      
-        <description>&lt;p&gt;Occasionally, I like to give myself a little emotional hug by calling myself a professional author. Although technically (ha!) it is true, my average day at work is not what I thought it would be.&lt;/p&gt;
-&lt;p&gt;When I was a teenager composing angsty poetry, I thought a writer rolled out of bed, had their coffee, then switched on their computer and their inspiration, and just &lt;em&gt;wrote&lt;/em&gt;. All day, maybe with some comfort breaks.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>So you think you know technical writing</title>
-      <link>http://localhost:1313/posts/241024-so-you-think-you-know-tw/</link>
-      <pubDate>Sat, 19 Oct 2024 21:36:29 +0100</pubDate>
-      
-      <guid>http://localhost:1313/posts/241024-so-you-think-you-know-tw/</guid>
+      <guid>https://pollytechnically.com/posts/24-12-10-so-you-think-you-know-tw/</guid>
       
         <description>&lt;p&gt;Occasionally, I like to give myself a little emotional hug by calling myself a professional author. Although technically (ha!) it is true, my average day at work is not what I thought it would be.&lt;/p&gt;
 &lt;p&gt;When I was a teenager composing angsty poetry, I thought a writer rolled out of bed, had their coffee, then switched on their computer and their inspiration, and just &lt;em&gt;wrote&lt;/em&gt;. All day, maybe with some comfort breaks.&lt;/p&gt;</description>
