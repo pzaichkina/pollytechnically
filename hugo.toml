@@ -11,7 +11,7 @@ Thoughts, tips, and woes
 London's best* tech writer
 """
 profilePicture = "images/polly-logo.png"
-ogimage = "/images/polly-logo.png"
+ogImage = "/images/polly-logo.png"
 socialShareImage = "/images/polly-logo.png"
 displayMode = "light"
 disableThemeSwitcher = true
